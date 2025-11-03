@@ -11,5 +11,11 @@
 ## https://journals.aps.org/prl/abstract/10.1103/stvg-lg9h
 ## Properties of the chiral spin liquid state in generalized spin ladders
 ## https://iopscience.iop.org/article/10.1088/0305-4470/30/13/005/pdf
+## EXACT SOLUTION OF THE ONE-DIMENSIONAL ISOTROPIC HEISENBERG CHAIN WITH ARBITRARY SPINS S
+## https://sci-hub.se/https://www.sciencedirect.com/science/article/abs/pii/0375960182904030?via%3Dihub
+## EXACT SOLUTION OF THE ISOTROPIC HEISENBERG CHAIN WITH ARBITRARY SPINS:Thermodynamics of the model 
+## https://sci-hub.se/https://www.sciencedirect.com/science/article/abs/pii/0550321383906685
+## The picture of low-lying excitations in the isotropic Heisenberg chain of arbitrary spins
+## https://sci-hub.se/https://www.sciencedirect.com/science/article/abs/pii/0375960182907642
 ## HEISENBERG MAGNET WITH AN ARBITRARY SPIN AND ANISOTROPIC CHIRAL FIELD
 ## https://sci-hub.se/https://www.sciencedirect.com/science/article/abs/pii/0550321386904050
