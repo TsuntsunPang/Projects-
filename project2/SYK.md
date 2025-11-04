@@ -1,1 +1,1 @@
-
+The Kondo effect describe  magnetic impurity interact with Fermi liquid. Here we consider a magnetic impurity interact with non-fermi liquid system. The SYK model is one well-known non-fermi liquid since the absence of quasi-particle in SYK model. The SYK model is associated with quantum holomony in high energy physics.
