@@ -4,7 +4,7 @@
 ## $$H_{SYK}=J_{ijkl}c_{i\alpha}^{\dagger}c_{j\beta}^{\dagger}c_{k\beta}c_{l\alpha}-\mu c_{i\alpha}^{\dagger}c_{i\alpha}$$
 ## $$H_{K}=J_{K}S_{imp}\cdot s_{SYK} $$
 ## $$H_S=-g\mu_B S^z_{imp}$$
-## The competition between two energy scales $J_K$ and $J_{ijkl}
+## The competition between two energy scales $J_K$ and $J_{ijkl}$
 
 # References 
 ## Resistance Minimum in Dilute Magnetic Alloys
