@@ -7,7 +7,8 @@ $$
 ## Where $k_j,k_l$ are momentums. We can write down the Bethe equation easily once we know the scattering matrix. The Hamitonian for constrainted integrable XXZ model is given by 
 $$ H_{CXXZ}=-\frac{1}{2}\sum_{i=1}^{L}P_t(\sigma_i^x\sigma_{i+1}^{x}+\sigma_i^y\sigma_{i+1}^y+\Delta \sigma_i^z\sigma_{i+1}^z)P_t
 $$ 
-## where $P_t$ projects out the states where two up spins are at distance smaller or equal to $t$
+## where $P_t$ projects out the states where two up spins are at distance smaller or equal to $t$, following the CBA procedures, we can get the two-body sacttering matrix for the constrained XXZ model, the result is 
+$$ S_C(k_j,k_l)=e^{it(k_j-k_l)}\frac{1-2\Delta e^{ik_j}+e^{i(k_j+k_l)}}{1-2\Delta e^{ik_l}+e^{i(k_j+k_l)}} =S_t\times S_{XXZ}$$
 
 
 
