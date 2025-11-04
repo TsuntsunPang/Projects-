@@ -4,7 +4,7 @@
 $$
 S(k_j,k_l)=\frac{1-2\Delta e^{ik_j}+e^{i(k_j+k_l)}}{1-2\Delta e^{ik_l}+e^{i(k_j+k_l)}}
 $$
-
+## Where $k_j,k_l$ are momentums. We can write down the Bethe equation easily once we know the scattering matrix.
 
 
 
