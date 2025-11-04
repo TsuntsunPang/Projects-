@@ -1,4 +1,5 @@
-## The spinon is the elementary excitation of interactive spin model in lower dimension.
+## The spinon is the elementary excitation of interactive spin model in lower dimension. Recently, some authors gave the explanation of spinon based on the entanglement beyond the domain wall picture. They inserted one spin 
+in 
 
 
 
