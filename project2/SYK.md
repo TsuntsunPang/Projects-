@@ -1,9 +1,9 @@
 ## The Kondo effect describe  magnetic impurity interact with Fermi liquid. Here we consider a magnetic impurity interact with non-fermi liquid system. The SYK model is one well-known non-fermi liquid since the absence of quasi-particle in SYK model. The SYK model is associated with quantum holography in high energy physics and stranger metal,high-T_c in condensed matter physics.
-## $$H=H_{SYK}+H_{K}+H_{S}$$
+ $$H=H_{SYK}+H_{K}+H_{S}$$
 ## where  
-## $$H_{SYK}=J_{ijkl}c_{i\alpha}^{\dagger}c_{j\beta}^{\dagger}c_{k\beta}c_{l\alpha}-\mu c_{i\alpha}^{\dagger}c_{i\alpha}$$
-## $$H_{K}=J_{K}S_{imp}\cdot s_{SYK} $$
-## $$H_S=-g\mu_B S^z_{imp}$$
+ $$H_{SYK}=J_{ijkl}c_{i\alpha}^{\dagger}c_{j\beta}^{\dagger}c_{k\beta}c_{l\alpha}-\mu c_{i\alpha}^{\dagger}c_{i\alpha}$$
+ $$H_{K}=J_{K}S_{imp}\cdot s_{SYK} $$
+ $$H_S=-g\mu_B S^z_{imp}$$
 ## The competition between two energy scales $J_K$ and $J_{ijkl}$
 
 # References 
