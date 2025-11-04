@@ -1,8 +1,8 @@
 ## The spinon is the elementary excitation of interactive spin model in lower dimension. Recently, some authors gave the explanation of spinon based on the entanglement beyond the domain wall picture. They inserted one spin into the Heisenberg model to calculate the the excitation energy, They compared numerical result (ED) with analytic result (Bethe ansatz method). Then we consider the following system 
 ## 1. The spin-1/2 Heisenberg model with chiral interaction 
-## $$H=\sum_n JS_n\cdot S_{n+1}+\alpha S_n\cdot (S_{n+1}\times S_{n+2})$$
+ $$H=\sum_n JS_n\cdot S_{n+1}+\alpha S_n\cdot (S_{n+1}\times S_{n+2})$$
 ## 2. The spin-1 Heisenberg model 
-## $$H=\sum_n JS_n\cdot S_{n+1}$$
+ $$H=\sum_n JS_n\cdot S_{n+1}$$
 
 
 
