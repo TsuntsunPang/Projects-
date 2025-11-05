@@ -10,4 +10,4 @@ Eₙ = { 2n | n ∈ ℤ },  Oₙ = { 2n+1 | n ∈ ℤ }
 $$\zeta(n)=\sum_{m=1}^{\infty}\frac{1}{m^n}$$
 ## when the arguments are even,we can write the Zeta function in compact form,namely 
 $$\zeta(2n)=(-1)^{n+1}\frac{B_{2n}(2\pi)^{2n}}{2(2n)!}$$
-## where $B_{2n}$ are Bernoulli numbers. However,we can not write $\zeta(2n+1)$ in compact form. That is so strange. Why the God arrange ?
+## where $B_{2n}$ are Bernoulli numbers. However,we can not write $\zeta(2n+1)$ in compact form. That is so strange. Why the God arrange in this way?
