@@ -1,6 +1,6 @@
 ## In primary shcool, we knew that the integer are divided into odd and even numbers. Those numbers are divisible by 2 called even number.  Numbers are not divisible by 2 called odd number. The sets of even and odd nubers are given by  
 Eₙ = { 2n | n ∈ ℤ },  Oₙ = { 2n+1 | n ∈ ℤ }
-## respetively. The  difference of even and odd is ubiquitous in physics and mathematics. 
+## respetively. The  difference of even and odd is ubiquitous in physics and mathematics.  Here we list some examples.
 # 1. inteference in optics
 # 2. Mastubara Frequency
 # 3. The string hypothesis in Bethe ansatz
